@@ -1,0 +1,23 @@
+.card {
+    width: 200px;
+    text-align: center;
+    border: 5px solid red;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.card-name {
+    font-weight: bold;
+}
+
+.card-img {
+    display: block;
+    max-width: 128px;
+    max-height: 128px;
+    margin: 10px auto;
+}
+
+.highlight {
+    background-color: yellow;
+}
